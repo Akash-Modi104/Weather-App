@@ -8,3 +8,6 @@ This is web based App where user can reigster themself and login and get the cur
 
 - Backend :- 
     python, flask , sqlalchemy , marshmallow, requests
+  
+- Frontend :- Angular
+- Database :- sqlite
